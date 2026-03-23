@@ -61,3 +61,5 @@ Rotating the pot sweeps the output across the full 3V–12V range.
 - Importance of filtering — observed ripple reduction directly on multimeter
 - PCB/breadboard debugging with live AC — taught caution and respect
   for mains voltage
+
+  
